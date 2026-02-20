@@ -1,0 +1,3 @@
+streamlit>=1.30.0
+biopython>=1.80
+snapgene_reader>=0.1.2
